@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CakeStoreApp/1.0.0": {
+        "runtime": {
+          "CakeStoreApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CakeStoreApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
